@@ -9,7 +9,7 @@ Allow Whitelist Countries & Block Blacklist Countries - Display ACCESS DENIED Er
 ## Video Tutorial [ Creating This Widget From Scratch ]
 [https://youtu.be/XqGepBsejAM](https://youtu.be/XqGepBsejAM)
 
- 
+ 
 
 ## If You Enjoy My Content, Please Support Me 😍🙏
 
